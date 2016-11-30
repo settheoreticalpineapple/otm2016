@@ -8,3 +8,5 @@
 Lisää kamaa.
 
 Ja lisää [kamaa](https://github.com/settheoreticalpineapple/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
+
+Tämä on ristiriita.
